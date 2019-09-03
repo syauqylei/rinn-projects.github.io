@@ -126,11 +126,6 @@ author:
 # Site Footer
 footer:
   links:
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://syauqylei.github.com/"
-
-
 # Reading Files
 include:
   - .htaccess
